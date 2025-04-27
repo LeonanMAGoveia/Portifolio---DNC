@@ -18,5 +18,3 @@ Este projeto é um portfólio web desenvolvido com HTML e CSS para apresentar se
 * CSS3
 * Google Fonts
 * Formspree (para o formulário)
-
-## Estrutura do Projeto
